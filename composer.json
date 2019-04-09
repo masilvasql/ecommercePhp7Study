@@ -1,5 +1,5 @@
 {
-    "name": "masilvasql/ecommerce",
+    "name": "masilvasql/ecommercePhp7Study",
     "authors": [
         {
             "name": "Marcelo Abrão da Silva",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
